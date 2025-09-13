@@ -14,7 +14,7 @@ A basic C++ program that simulates a simple library management system. It allows
 - Simple command-line interface
 - Easy to extend with more functionality
 
-  # Concepts Used
+# Concepts Used
   - Classes and objects
   - Arrays of objects
   - Standard input/output (`cin`, `cout`)
